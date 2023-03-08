@@ -2,6 +2,9 @@ import requests
 import streamlit as st
 from streamlit_lottie import st_lottie
 
+import recorder
+
+
 LOTTIE_URL = 'https://assets6.lottiefiles.com/packages/lf20_6e0qqtpa.json'
 def load_lottieur(url):
     r = requests.get(url)
@@ -16,15 +19,17 @@ st.set_page_config(page_title="ChatGPT-VA", page_icon='', layout='centered')
 # Initialize session state
 if "is_recording" not in st.session_state:
     st.session_state.is_recording = False
+if "recording_is_done" not in st.session_state:
+    st.session_state.recording_is_done = False
+
 
 # Define button callbacks
 def callback_record():
     st.session_state.is_recording = True
-    messages_box.write("Recording started.")
+    prompt_box.write("Recording started.")
 
-def callback_stop():
-    st.session_state.is_recording = False
-    messages_box.write("Recording stopped.")
+    recorder.record(filename='prompt.wav')
+
 
 ##########################
 with st.container():
@@ -35,20 +40,12 @@ with st.container():
     with right:
         st.subheader('Hi, I am ChatGPT voice assistant!')
 
-        st.write('Press Record to start recording your promot :microphone:')
+        st.write(':microphone: Press Record to start recording your promot')
 
-        with st.container():
-            # Create two columns for buttons
-            col1, col2 = st.columns(2)
-            # Render buttons based on recording state
-            col1_button = col1.button(
-                label="Record :microphone:", type='primary',
-                on_click=callback_record,
-                disabled=st.session_state.is_recording)
-            col2_button = col2.button(
-                label="Stop recording", type='primary',
-                on_click=callback_stop,
-                disabled=not st.session_state.is_recording)
+        col1_button = st.button(
+            label="Record :microphone:", type='primary',
+            on_click=callback_record,
+            disabled=st.session_state.is_recording)
 
         prompt_box = st.empty()
 
@@ -57,3 +54,4 @@ with st.container():
 with st.container():
     st.write('---')
     messages_box = st.empty()
+
