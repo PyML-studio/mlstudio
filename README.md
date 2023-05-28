@@ -14,5 +14,5 @@ Link to YouTube channel: [Machine Learning Studio](https://www.youtube.com/@mach
 | --- | --- |
 | [Video 1: Marix Multiplication Concept Explained](https://www.youtube.com/watch?v=VXG6WzS-Xb4&t=13s) | Linear algebra concepts (pre-requisite to attention mechanism) |
 | [Video 2: Self-Attention Using Scaled Dot-Product Approach](https://www.youtube.com/watch?v=1IKrHh2X0F0) | Understanding the self-attention mechanism, and intro to scaled dot-product attention |
-| [Video 3: PyTorch Implementation of Scaled Dot-Product Self-Attention](#) | |
+| [Video 3: PyTorch Implementation of Scaled Dot-Product Self-Attention](https://www.youtube.com/watch?v=mmzRYGCfTzc&t=12s) | Multihead Attention |
 
