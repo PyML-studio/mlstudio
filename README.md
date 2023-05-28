@@ -7,7 +7,7 @@ Link to YouTube channel: [Machine Learning Studio](https://www.youtube.com/@mach
 | <span style="background-color:#D5DBDB;"> Video</span> | <span style="background-color:#D5DBDB;">Description</span> |
 | --- | --- |
 | [Video 1: Top 10 Activaiton Functions](https://www.youtube.com/watch?v=56ZxEmGRt2k&t=27s) | Giving a review of activation functions |
-| [Video 2: A Review of Top NN Optimizers](https://youtu.be/7m8f0hP8Fzo) | Giving a review of optimization algorithms for training neural networks |
+| [Video 2: A Review of Top NN Optimizers](https://youtu.be/7m8f0hP8Fzo) | A review of top 16 optimization algorithms for training neural networks |
 
 
 ## Attention mechanism & Transformers playlist
