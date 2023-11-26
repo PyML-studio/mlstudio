@@ -20,4 +20,5 @@ Link to YouTube channel: [Machine Learning Studio](https://www.youtube.com/@mach
 | [Video 5: PostLN, PreLN and ResiDual Transformers](https://youtu.be/RsuSOylfN2I) | LayerNorm in Transformer |
 | [Video 6: Variants of Multi-head Attention: MQA and GQA](https://youtu.be/pVP0bu8QA2w) | MQA and GQA |
 | [Video 7: Efficient Self-Attention](https://youtu.be/LgsiwDRnXls) | Reducing Complexity |
+| [Video 8: Implementing Linear-Complexity Attention](https://youtu.be/ulmex-d49cM) | Implementing Linear-Attention in PyTorch |
 
