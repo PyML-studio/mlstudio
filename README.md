@@ -21,4 +21,7 @@ Link to YouTube channel: [Machine Learning Studio](https://www.youtube.com/@mach
 | [Video 6: Variants of Multi-head Attention: MQA and GQA](https://youtu.be/pVP0bu8QA2w) | MQA and GQA |
 | [Video 7: Efficient Self-Attention](https://youtu.be/LgsiwDRnXls) | Reducing Complexity |
 | [Video 8: Implementing Linear-Complexity Attention](https://youtu.be/ulmex-d49cM) | Implementing Linear-Attention in PyTorch |
-
+| [Video 9: Introducing a new seriws on Vision Transformers](https://www.youtube.com/watch?v=Qfp7IGv2LXo) | Introduction and outline of Vision Transformers series|
+| [Video 10: Self Attention in Image Domain](https://www.youtube.com/watch?v=i3kYSAMMWT8) | Self-Attention in Image domain: Non-Local Module|
+| [Video 11: Relative Self-Attention Explained](https://www.youtube.com/watch?v=XdlmDfa2hew) | Mechanics of Relative Self-Attention |
+| [Video 12: Evolution of Self-Attention in Vision](https://www.youtube.com/watch?v=bavfa_Rr2f4&t=730s) | Attention-Augmented Conv. (AANet), Stand-Alone Self-Attention (SASA), and Stand-Alone Axial Attention (SAAA)|
