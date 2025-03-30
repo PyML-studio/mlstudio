@@ -2,6 +2,11 @@
 
 Link to YouTube channel: [Machine Learning Studio](https://www.youtube.com/@machinelearningstudio)
 
+## Large Language Models (LLMs)
+| <span style="background-color:#D5DBDB;"> Video</span> | <span style="background-color:#D5DBDB;">Description</span> |
+| --- | --- |
+| [Video 23: Enhancing LLMs (an overview)](https://youtu.be/jwjiordEqtM) |   |
+
 ## Deep Learning Series playlist
 
 | <span style="background-color:#D5DBDB;"> Video</span> | <span style="background-color:#D5DBDB;">Description</span> |
@@ -25,3 +30,4 @@ Link to YouTube channel: [Machine Learning Studio](https://www.youtube.com/@mach
 | [Video 10: Self Attention in Image Domain](https://www.youtube.com/watch?v=i3kYSAMMWT8) | Self-Attention in Image domain: Non-Local Module|
 | [Video 11: Relative Self-Attention Explained](https://www.youtube.com/watch?v=XdlmDfa2hew) | Mechanics of Relative Self-Attention |
 | [Video 12: Evolution of Self-Attention in Vision](https://www.youtube.com/watch?v=bavfa_Rr2f4&t=730s) | Attention-Augmented Conv. (AANet), Stand-Alone Self-Attention (SASA), and Stand-Alone Axial Attention (SAAA)|
+
