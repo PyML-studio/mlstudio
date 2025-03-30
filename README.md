@@ -5,9 +5,9 @@ Link to YouTube channel: [Machine Learning Studio](https://www.youtube.com/@mach
 ## Large Language Models (LLMs)
 | <span style="background-color:#D5DBDB;"> Video</span> | <span style="background-color:#D5DBDB;">Description</span> |
 | --- | --- |
-| [Video 23: Enhancing LLMs (an overview)](https://youtu.be/jwjiordEqtM) |   |
-| [Video 24: Retrieval Augmented Generation (RAG)](https://youtu.be/MJVTf63OF5o) |   |
-| [Video 25: Parameter Efficient Fine-Tuning (PEFT)](https://youtu.be/6J00ksLBW_g) |   |
+| [Video 23: Enhancing LLMs (an overview)](https://youtu.be/jwjiordEqtM) | Enhancing LLMs with prompt engineering, RAG and fine-tuning  |
+| [Video 24: Retrieval Augmented Generation (RAG)](https://youtu.be/MJVTf63OF5o) | RAG concept and implementation from scratch using PyMilvus  |
+| [Video 25: Parameter Efficient Fine-Tuning (PEFT)](https://youtu.be/6J00ksLBW_g) | An overview of PEFT methods: Adapters, Prefix-tuning, LoRA, ...  |
 
 ## Deep Learning Series playlist
 
